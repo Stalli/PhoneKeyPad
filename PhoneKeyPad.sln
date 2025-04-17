@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneKeyPad", "PhoneKeyPad\PhoneKeyPad.csproj", "{593BEF0D-E1A3-4406-8397-EECC407AA4D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPhoneKeyPad", "TestPhoneKeyPad\TestPhoneKeyPad.csproj", "{A6E466AF-FCA5-4CD8-9DC8-C8E284787BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593BEF0D-E1A3-4406-8397-EECC407AA4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593BEF0D-E1A3-4406-8397-EECC407AA4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593BEF0D-E1A3-4406-8397-EECC407AA4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593BEF0D-E1A3-4406-8397-EECC407AA4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E466AF-FCA5-4CD8-9DC8-C8E284787BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E466AF-FCA5-4CD8-9DC8-C8E284787BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E466AF-FCA5-4CD8-9DC8-C8E284787BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E466AF-FCA5-4CD8-9DC8-C8E284787BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
